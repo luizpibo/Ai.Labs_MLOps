@@ -72,7 +72,7 @@
     - Velocidade: Ela é capaz de processar grandes quantidades de dados em paralelo e processamento na memória.
 
 
-    ### Principais vantagens
+    ### Algumas Desvantagens
 
     - Complexidade: Por possuir um número grande de funcionabilidades e configurações, as pessoas possuem uma certa dificuldade em aprender a utilizar a plataforma.
     - Overhead de memória: Como ele faz processamento em memória, a quantidade de memória ram que seus jobs utilizam pode ser um problema gerenciar o consumo no cluster.
