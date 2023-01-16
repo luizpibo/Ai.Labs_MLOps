@@ -58,7 +58,7 @@
 
 - ## **Apache Spark**
 
-    ### Visão geral do Apache Beam
+    ### Visão geral do Apache Spark
 
     O Spark é um mecanismo de análise de processamento paralelo unificado para processamento de dados em larga escla. Ele oferece suporte ao processamento na memória para aumentar o desempenho de aplicativos que analisam big data. Forenece APIs de alto nível para Java, Scala, Python e um mecanismo otimizado que oferece suporte a gráficos de execução geral. Ele também oferece um conjunto de ferramentas auxiliares incluindo processamento de gráficos(GraphX), Processametno de dados estruturados (Spark SQL), compatibilidade com Pandas, para aprendizado de máquina como MLib e streaming estruturado para computação. Ela foi originalmente desenvolvida na Universidade de Berkeley em 2009. O framework Spark é 100% open source, hospedado no Apache Software Foundation independente de fornecedor.
 
